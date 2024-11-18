@@ -1,5 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy Jair Mendoza>
+<h1 align="center">Hola, soy Jair Mendoza </h1>
+</div>
+
 
 <!--
 **jairmendoza1/jairmendoza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
